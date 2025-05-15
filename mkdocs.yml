@@ -5,4 +5,7 @@ theme:
   palette:
     primary: indigo
     accent: indigo
-
+extra:
+  analytics:
+    provider: google
+    property: G-NHB27Z7BSP
