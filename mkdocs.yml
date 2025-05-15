@@ -3,7 +3,7 @@ site_url: https://docs.raffl.online
 theme:
   name: material
   palette:
-    primary: indigo
+    primary: custom
     accent: indigo
   features:
     - navigation.expand
@@ -11,3 +11,5 @@ extra:
   analytics:
     provider: google
     property: G-NHB27Z7BSP
+extra_css:
+  - stylesheets/extra.css

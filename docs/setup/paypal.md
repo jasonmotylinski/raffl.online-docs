@@ -10,7 +10,7 @@ The Paypal business email address is the primary address associated with the Pay
 
 ## Retrieving your PayPal credentials:
 
-1.  Go to the [PayPal Developer Dashboard (Live)](https://developer.paypal.com/dashboard/applications/live) and log in with your PayPal account.
+1.  Go to the __[PayPal Developer Dashboard (Live)](https://developer.paypal.com/dashboard/applications/live)__ and log in with your PayPal account.
 1. Check if you already have an existing app listed.
     * If yes, click on the app name to view the Client ID and Client Secret.
     * You can send these credentials to me once located.
