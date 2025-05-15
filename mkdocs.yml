@@ -5,6 +5,8 @@ theme:
   palette:
     primary: indigo
     accent: indigo
+  features:
+    - navigation.expand
 extra:
   analytics:
     provider: google
