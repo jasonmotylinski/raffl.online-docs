@@ -1,0 +1,8 @@
+site_name: Raffl.online Docs
+site_url: https://docs.raffl.online
+theme:
+  name: material
+  palette:
+    primary: indigo
+    accent: indigo
+
