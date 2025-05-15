@@ -1,0 +1,6 @@
+:root  > * {
+    --md-primary-fg-color:        #242943;
+  }
+.md-typeset a{
+    color: #3081eb;
+}
