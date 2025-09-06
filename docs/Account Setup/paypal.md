@@ -8,7 +8,7 @@ Raffl.online integrates directly with your PayPal account. To enable this integr
 ## Paypal Business Email Address
 The Paypal business email address is the primary address associated with the Paypal account. It is also typically used to log into Paypal.
 
-## Retrieving your PayPal credentials:
+## Retrieving your PayPal credentials
 
 1.  Go to the __[PayPal Developer Dashboard (Live)](https://developer.paypal.com/dashboard/applications/live)__ and log in with your PayPal account.
 1. Check if you already have an existing app listed.
