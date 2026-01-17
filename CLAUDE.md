@@ -6,6 +6,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 This is a documentation site for [Raffl.online](https://raffl.online) built with MkDocs and the Material theme. The site is hosted on GitHub Pages and deployed automatically via GitHub Actions.
 
+**Related Repository:**
+The actual Raffl.online web application code is located at `../nesbtc-webapp`. When adding or updating documentation, refer to that codebase for implementation details.
+
 ## Commands
 
 ### Development

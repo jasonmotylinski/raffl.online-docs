@@ -2,14 +2,62 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.raffl.online/</loc>
-         <lastmod>2025-09-06</lastmod>
+         <lastmod>2026-01-17</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.raffl.online/Account%20Setup/</loc>
+         <lastmod>2026-01-17</lastmod>
     </url>
     <url>
          <loc>https://docs.raffl.online/Account%20Setup/paypal/</loc>
-         <lastmod>2025-09-06</lastmod>
+         <lastmod>2026-01-17</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.raffl.online/Account%20Setup/signup/</loc>
+         <lastmod>2026-01-17</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.raffl.online/Raffles/</loc>
+         <lastmod>2026-01-17</lastmod>
     </url>
     <url>
          <loc>https://docs.raffl.online/Raffles/creating/</loc>
-         <lastmod>2025-09-06</lastmod>
+         <lastmod>2026-01-17</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.raffl.online/Raffles/editing/</loc>
+         <lastmod>2026-01-17</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.raffl.online/Raffles/how-purchases-work/</loc>
+         <lastmod>2026-01-17</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.raffl.online/Raffles/managing-entries/</loc>
+         <lastmod>2026-01-17</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.raffl.online/Raffles/viewing/</loc>
+         <lastmod>2026-01-17</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.raffl.online/Sponsors/</loc>
+         <lastmod>2026-01-17</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.raffl.online/Sponsors/creating/</loc>
+         <lastmod>2026-01-17</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.raffl.online/Sponsors/managing/</loc>
+         <lastmod>2026-01-17</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.raffl.online/Sponsors/pricing/</loc>
+         <lastmod>2026-01-17</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.raffl.online/Sponsors/setup/</loc>
+         <lastmod>2026-01-17</lastmod>
     </url>
 </urlset>
